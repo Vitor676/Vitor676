@@ -4,6 +4,9 @@
 
 Olá, meu nome é Vitor Cesario, tenho 27 anos e possuo conhecimentos na área jurídica, especialmente em LGPD. Atualmente, estou em transição de carreira e concluí um Bootcamp focado em FullStack .NET. Além disso, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas (ADS), com o objetivo de ingressar no mercado de trabalho por meio de estágios e oportunidades na área de tecnologia. Tenho experiência em C#, SQL, HTML, CSS, JavaScript, entre outras tecnologias.
 
+![Meu Wallpaper](src:/imagens/gitwall.jpg)
+
+
 <p align="left">
     <a href="https://github.com/Vitor676?tab=repositories&sort=stargazers">
         <img 

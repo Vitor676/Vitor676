@@ -19,8 +19,21 @@ Olá, meu nome é Vitor Cesario, tenho 27 anos e possuo conhecimentos na área j
             src="https://custom-icon-badges.demolab.com/github/followers/Vitor676?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="vitorsousa676@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Entre em contato por e-mail" 
+            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-cesario-de-sousa-carvalho/">
+        <img 
+            alt="LinkedIn" 
+            title="Me adicione no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
